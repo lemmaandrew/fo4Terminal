@@ -2,7 +2,7 @@
 import json
 import re
 import warnings
-from collections import defaultdict\
+from collections import defaultdict
 
 import numpy as np
 import pyautogui
