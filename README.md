@@ -1,7 +1,7 @@
 # fo4Terminal
 Heuristic for solving terminals in Fallout 4
 
-example: https://gfycat.com/dishonestdarlingfowl
+example: https://gfycat.com/spicytastyamazontreeboa
 
 If you want to do this manually, just create a set of the words on the terminal then call `suggest_click(words)` until the terminal is opened
 
